@@ -1,0 +1,18 @@
+C:\Users\161180\lab1>git log
+commit b7355ec06f7d524d1f6487e94d9f7ddc9056d0c0 (HEAD -> logging, origin/master, master)
+Author: abdimeska <abdimeska@gmail.com>
+Date:   Wed Mar 14 17:50:55 2018 +0100
+
+    promena
+
+commit e7aa1f07d1981129ec0f645c9ee77f82601f58a0
+Author: unknown <ana-bella.dimeska@students.finki.ukim.mk>
+Date:   Wed Mar 14 17:18:37 2018 +0100
+
+    modify l1.txt
+
+commit 28d6e4c07e0d275a3b3c3d646e2764977877c05a
+Author: unknown <ana-bella.dimeska@students.finki.ukim.mk>
+Date:   Wed Mar 14 17:15:33 2018 +0100
+
+    Initial commit
