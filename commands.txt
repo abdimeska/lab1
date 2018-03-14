@@ -1,0 +1,34 @@
+mkdir lab1
+cd lab1
+notepad l1.txt
+git init
+git status
+git add .
+
+git remote add origin https://github.com/abdimeska/lab1.git
+git commit -m "Initial commit"
+git push -u origin master
+start l1.txt
+git status
+git add .
+git commit -m "modify l1.txt"
+git push
+git config --global user.name "abdimeska"
+git config --global user.email abdimeska@gmail.com
+git remote add origin https://github.com/abdimeska/origin.git
+start l1.txt
+git branch logging
+git checkout logging
+notepad
+git branch
+git add .
+git commit -m "log file"
+git push
+git checkout master
+git branch
+git merge logging
+git status
+git push -u origin master
+git branch allcommands
+notepad
+
